@@ -16,6 +16,11 @@ This Arduino project implements a number guessing game using a 16x2 LCD display 
 <li>Connect the components as follows:
 </ul>
 
+## Circuit Diagram
+
+![Swanky Luulia-Jarv](https://github.com/ahmedelzaky/Guess-A-Number-with-Arduino/assets/89663624/bf38779c-ccb6-4f2e-8219-bfe8fe22ab61)
+
+
 ## LCD Connections:
 
 <ul>
@@ -40,12 +45,12 @@ This Arduino project implements a number guessing game using a 16x2 LCD display 
 
 ## LED Connections:
 
-# Green LED:
+### Green LED:
 
 Connect the anode (longer leg) to pin 7
 Connect the cathode (shorter leg) to ground through a current-limiting resistor (e.g., 220-470 ohms)
 
-# Red LED:
+### Red LED:
 
 Connect the anode (longer leg) to pin 6
 Connect the cathode (shorter leg) to ground through a current-limiting resistor (e.g., 220-470 ohms)
@@ -77,3 +82,11 @@ Keypad: Provides functions for reading input from a keypad.
 <li>The game will automatically reset, generating a new random number and resetting the guess counter, after a win or after reaching 10 incorrect guesses.
 </ol>
 
+  
+## Demo
+  
+https://github.com/ahmedelzaky/Guess-A-Number-with-Arduino/assets/89663624/a5e72569-26f6-427f-9573-66a39801e93b
+
+
+
+  
