@@ -92,8 +92,8 @@ https://github.com/ahmedelzaky/Guess-A-Number-with-Arduino/assets/89663624/a5e72
 <ul>
   <li><a href="https://github.com/ahmedelzaky">Ahmed Elzaki
   <li><a href="https://github.com/0xAMF?tab=following">Fayad 
-  <li><a href="https://github.com/suhailamohamed21">suhailamohamed
+  <li><a href="https://github.com/suhailamohamed21">Suhaila Mohamed
+  <li><a href="https://github.com/rwnmtwly">Rawan Elnaggar 
   <li>Menna Gamal 
-  <li>Rawan Elnaggar 
 </ul>
   
