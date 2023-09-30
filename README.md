@@ -85,9 +85,9 @@ Keypad: Provides functions for reading input from a keypad.
   
 ## Demo
   
-https://github.com/ahmedelzaky/Guess-A-Number-with-Arduino/assets/89663624/a5e72569-26f6-427f-9573-66a39801e93b
+https://github.com/ahmedelzaky/Guess-A-Number-with-Arduino/assets/89663624/b394eee4-3ec0-4df8-9309-7e78b1d40d7f
 
- 
+
 ## Made by:
 <ul>
   <li><a href="https://github.com/ahmedelzaky">Ahmed Elzaki
